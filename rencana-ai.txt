@@ -6,9 +6,3 @@ RENCANA AI
  *DOM
  *Modern
  *Framework
-  -Angular
-  -React
--Php
- *Dasar dasar
- *Framework
-  -Laravel
