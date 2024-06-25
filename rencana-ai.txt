@@ -7,6 +7,7 @@ RENCANA AI
  *Modern
  *Framework
  -Vue
+ -React
 -Php
  *Dasar dasar
  *Framework
