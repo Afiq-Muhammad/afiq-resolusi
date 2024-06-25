@@ -1,0 +1,11 @@
+RENCANA AI
+=Python
+ *Dasar dasar
+-JavaScript
+ *Lanjutan
+ *DOM
+ *Modern
+ *Framework
+-Php
+ *Dasar dasar
+ *Framework
