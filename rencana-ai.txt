@@ -1,4 +1,11 @@
 RENCANA AI
-=ChatGPT Clone
--Membuat engine sendiri
--Membuat Asisten Ai 1.Clone 2.Sendiri
+=Python
+ *Dasar dasar
+-JavaScript
+ *Lanjutan
+ *DOM
+ *Modern
+ *Framework
+-Php
+ *Dasar dasar
+ *Framework
