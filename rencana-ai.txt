@@ -9,3 +9,4 @@ RENCANA AI
 -Php
  *Dasar dasar
  *Framework
+-fundametal data
