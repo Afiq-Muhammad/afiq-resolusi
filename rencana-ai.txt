@@ -6,7 +6,10 @@ RENCANA AI
  *DOM
  *Modern
  *Framework
+ -Vue
 -Php
  *Dasar dasar
  *Framework
+ -Laravel
 -fundametal data
+-Prompt
