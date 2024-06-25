@@ -1,0 +1,4 @@
+RENCANA AI
+=ChatGPT Clone
+-Membuat engine sendiri
+-Membuat Asisten Ai 1.Clone 2.Sendiri
